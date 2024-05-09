@@ -1,3 +1,9 @@
- .idea/
- target/
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Maven target directory
+target/
+
+# Ignore compiled Java class files
+*.class
 
